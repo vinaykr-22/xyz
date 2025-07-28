@@ -1,0 +1,33 @@
+body {
+    
+    font-family: Arial, sans-serif;
+    
+    background-color: #f4f4f4; /* A light grey background */
+    
+    color: #333; /* A dark grey for text */
+}
+
+/* Style all <h1> elements */
+h1 {
+    color: #005A9C; 	/* A nice blue color for the main heading */
+    text-align: center;
+}
+
+/* Style all <p> elements */
+
+p {
+    line-height: 1.6; /* Increases the space between lines of text */
+}
+
+/* Style only the element with the class="highlight-box" */
+
+.highlight-box {
+
+    background-color: #fff8e1; /* A light yellow background */
+
+    border: 1px solid #ffc107; /* A solid yellow border */
+
+    padding: 20px; 	/* Adds space inside the box */
+
+    margin-top: 30px; /* Adds space outside the box, on top */
+}
